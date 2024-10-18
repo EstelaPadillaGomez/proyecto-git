@@ -1,0 +1,1 @@
+En este proyecto vamos a ver los usos de git.
